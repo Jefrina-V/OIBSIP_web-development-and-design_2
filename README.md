@@ -76,7 +76,6 @@
                 </div>
             </section>
         </main>
-    
         <footer>
             <section id="Contact" class="section">
             <hr>
