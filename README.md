@@ -1,0 +1,15 @@
+Hi,This my Task 2 at Oasis Infobyte,Which was to buid a  portfolio web page is created using HTML for structure and CSS for styling. In the HTML, the <html> tag is the root, the <head> section includes the <title> to name 
+the page and a <link> tag to connect the CSS file, and everything visible is inside the <body>. The body is divided into <header>, <main>, and <footer>. In the header, I used
+an <h3> tag for my name and a <nav> element with an unordered list <ul>, list items <li>, and links <a> to build a navigation bar that connects to different sections of the
+page like Home, About, Skills, and Contact. The main part of the page is split into different <section> tags: in the Home section, there are headings <h1>, subtexts <p>, an 
+image using <img>, and clickable links <a> for LinkedIn and GitHub icons. The About section includes another image wrapped in <span>, an <h1> heading, a <p> paragraph about me,
+and a <button> that opens my resume. The Skills & Credentials section uses another <nav> with lists <ul> and links <a> to show technical and soft skills, and several <span> tags each holding an 
+<img> to display certificates. The Experience section uses a <div>, an <h1> heading, and a <p> paragraph to describe my training. Finally, in the footer, I used the <footer> 
+tag with the Contact section, showing details like phone, email, and LinkedIn using <p>, <a>, and <strong> for highlighting text, plus a copyright line. In the CSS, I applied
+background colors and text alignment to body, header, main, and footer. Navigation menus are styled using .navbar1 and .navbar2, with rules for <ul>, <li>, and <a> to remove 
+bullets, change font settings, and add hover color effects. I customized <h1> to be bold and large, while <p> has clean fonts and a medium size. The <span> elements around 
+certificates have background colors, margins, and box shadows to make them stand out. Images have their own IDs like #img1 with size, margin, and borders. Finally, the
+<button> is styled with padding, rounded corners, fonts, and hover effects to make it interactive. Overall, HTML elements like header, nav, section, h1, p, img, ul, li, a, 
+span, div, button, and footer build the structure, while CSS adds design using colors, text styles, spacing, shadows, and hover effects to make the portfolio look clean and 
+professional.
+
